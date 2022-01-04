@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="644ab8af-17c4-4aa1-aed2-c990952777f0" name="Default Changelist" comment="" />
+    <list default="true" id="644ab8af-17c4-4aa1-aed2-c990952777f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="23CBV3gODZXCUjJBnT1lfOSWGxk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,71 +30,72 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kotlin-boostcourse" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.MultiplyKt">
-    <configuration name="ArithmeticKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.AlarmClockKt">
+    <configuration name="AlarmClockKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="10869번.ArithmeticKt" />
+      <option name="MAIN_CLASS_NAME" value="2884번.AlarmClockKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="CompareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="10171번.CatKt" />
+      <option name="MAIN_CLASS_NAME" value="1330번.CompareKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KriiiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="ExamScoreKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="10718번.KriiiKt" />
+      <option name="MAIN_CLASS_NAME" value="9498번.ExamScoreKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="LeapYearKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="2588번.MultiplyKt" />
+      <option name="MAIN_CLASS_NAME" value="2753번.LeapYearKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="QuadrantKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="10430번.RemainKt" />
+      <option name="MAIN_CLASS_NAME" value="14681번.QuadrantKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MultiplyKt" />
-        <item itemvalue="Kotlin.RemainKt" />
-        <item itemvalue="Kotlin.ArithmeticKt" />
-        <item itemvalue="Kotlin.CatKt" />
-        <item itemvalue="Kotlin.KriiiKt" />
+        <item itemvalue="Kotlin.AlarmClockKt" />
+        <item itemvalue="Kotlin.QuadrantKt" />
+        <item itemvalue="Kotlin.LeapYearKt" />
+        <item itemvalue="Kotlin.ExamScoreKt" />
+        <item itemvalue="Kotlin.CompareKt" />
       </list>
     </recent_temporary>
   </component>
@@ -124,38 +133,42 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="828" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641228350845" />
-    <state width="1300" height="189" key="GridCell.Tab.0.bottom" timestamp="1641231336304">
+    <state x="873" y="274" key="FileChooserDialogImpl" timestamp="1641291466990">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641231336304" />
-    <state width="1300" height="189" key="GridCell.Tab.0.center" timestamp="1641231336304">
+    <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641291466990" />
+    <state width="1300" height="173" key="GridCell.Tab.0.bottom" timestamp="1641292253708">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="189" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641231336304" />
-    <state width="1300" height="189" key="GridCell.Tab.0.left" timestamp="1641231336304">
+    <state width="1300" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641292253708" />
+    <state width="1300" height="173" key="GridCell.Tab.0.center" timestamp="1641292253708">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="189" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641231336304" />
-    <state width="1300" height="189" key="GridCell.Tab.0.right" timestamp="1641231336304">
+    <state width="1300" height="173" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641292253708" />
+    <state width="1300" height="173" key="GridCell.Tab.0.left" timestamp="1641292253708">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="189" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641231336304" />
-    <state width="1300" height="236" key="GridCell.Tab.1.bottom" timestamp="1641230994801">
+    <state width="1300" height="173" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641292253708" />
+    <state width="1300" height="173" key="GridCell.Tab.0.right" timestamp="1641292253708">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="236" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641230994801" />
-    <state width="1300" height="236" key="GridCell.Tab.1.center" timestamp="1641230994801">
+    <state width="1300" height="173" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641292253708" />
+    <state width="1300" height="236" key="GridCell.Tab.1.bottom" timestamp="1641231685692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="236" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641230994801" />
-    <state width="1300" height="236" key="GridCell.Tab.1.left" timestamp="1641230994801">
+    <state width="1300" height="236" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641231685692" />
+    <state width="1300" height="236" key="GridCell.Tab.1.center" timestamp="1641231685692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="236" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641230994801" />
-    <state width="1300" height="236" key="GridCell.Tab.1.right" timestamp="1641230994801">
+    <state width="1300" height="236" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641231685692" />
+    <state width="1300" height="236" key="GridCell.Tab.1.left" timestamp="1641231685692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="236" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641230994801" />
+    <state width="1300" height="236" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641231685692" />
+    <state width="1300" height="236" key="GridCell.Tab.1.right" timestamp="1641231685692">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1300" height="236" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641231685692" />
     <state x="588" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1641231331161">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
