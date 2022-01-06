@@ -35,67 +35,67 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.AlarmClockKt">
-    <configuration name="AlarmClockKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Star3Kt">
+    <configuration name="AB7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="2884번.AlarmClockKt" />
+      <option name="MAIN_CLASS_NAME" value="11021번.AB7Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="SmallNumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="1330번.CompareKt" />
+      <option name="MAIN_CLASS_NAME" value="10871번.SmallNumKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExamScoreKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Star2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="9498번.ExamScoreKt" />
+      <option name="MAIN_CLASS_NAME" value="2439번.Star2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYearKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Star3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="2753번.LeapYearKt" />
+      <option name="MAIN_CLASS_NAME" value="2440번.Star3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuadrantKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="SumPlusKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="14681번.QuadrantKt" />
+      <option name="MAIN_CLASS_NAME" value="8393번.SumPlusKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.AlarmClockKt" />
-        <item itemvalue="Kotlin.QuadrantKt" />
-        <item itemvalue="Kotlin.LeapYearKt" />
-        <item itemvalue="Kotlin.ExamScoreKt" />
-        <item itemvalue="Kotlin.CompareKt" />
+        <item itemvalue="Kotlin.Star3Kt" />
+        <item itemvalue="Kotlin.SmallNumKt" />
+        <item itemvalue="Kotlin.Star2Kt" />
+        <item itemvalue="Kotlin.SumPlusKt" />
+        <item itemvalue="Kotlin.AB7Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -133,26 +133,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="828" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641228350845" />
-    <state x="873" y="274" key="FileChooserDialogImpl" timestamp="1641291466990">
+    <state x="873" y="274" key="FileChooserDialogImpl" timestamp="1641403292554">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641291466990" />
-    <state width="1300" height="173" key="GridCell.Tab.0.bottom" timestamp="1641292253708">
+    <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641403292554" />
+    <state width="1300" height="194" key="GridCell.Tab.0.bottom" timestamp="1641408188228">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641292253708" />
-    <state width="1300" height="173" key="GridCell.Tab.0.center" timestamp="1641292253708">
+    <state width="1300" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641408188228" />
+    <state width="1300" height="194" key="GridCell.Tab.0.center" timestamp="1641408188228">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="173" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641292253708" />
-    <state width="1300" height="173" key="GridCell.Tab.0.left" timestamp="1641292253708">
+    <state width="1300" height="194" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641408188228" />
+    <state width="1300" height="194" key="GridCell.Tab.0.left" timestamp="1641408188228">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="173" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641292253708" />
-    <state width="1300" height="173" key="GridCell.Tab.0.right" timestamp="1641292253708">
+    <state width="1300" height="194" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641408188228" />
+    <state width="1300" height="194" key="GridCell.Tab.0.right" timestamp="1641408188228">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1300" height="173" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641292253708" />
+    <state width="1300" height="194" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641408188228" />
     <state width="1300" height="236" key="GridCell.Tab.1.bottom" timestamp="1641231685692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
