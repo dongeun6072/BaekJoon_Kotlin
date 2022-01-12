@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="644ab8af-17c4-4aa1-aed2-c990952777f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/META-INF/Baekjoon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Baekjoon/META-INF/Baekjoon.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.BreakEventPointKt">
+  <component name="RunManager" selected="Kotlin.ScaleKt">
     <configuration name="BreakEventPointKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
@@ -45,19 +44,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="1712번.BreakEventPointKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CycleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Baekjoon" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="1110번.CycleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,27 +62,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="ScaleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="10818번.MinMaxKt" />
+      <option name="MAIN_CLASS_NAME" value="2920번.ScaleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhilePlusKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="VerificationNumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="10952번.WhilePlusKt" />
+      <option name="MAIN_CLASS_NAME" value="2475번.VerificationNumKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordStudyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Baekjoon" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="1157번.WordStudyKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ScaleKt" />
+        <item itemvalue="Kotlin.VerificationNumKt" />
+        <item itemvalue="Kotlin.WordStudyKt" />
         <item itemvalue="Kotlin.BreakEventPointKt" />
         <item itemvalue="Kotlin.MaxNumKt" />
-        <item itemvalue="Kotlin.MinMaxKt" />
-        <item itemvalue="Kotlin.CycleKt" />
-        <item itemvalue="Kotlin.WhilePlusKt" />
       </list>
     </recent_temporary>
   </component>
@@ -134,26 +133,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="828" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641228350845" />
-    <state x="873" y="274" key="FileChooserDialogImpl" timestamp="1641449566020">
+    <state x="873" y="274" key="FileChooserDialogImpl" timestamp="1641670302087">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641449566020" />
-    <state width="1285" height="242" key="GridCell.Tab.0.bottom" timestamp="1641656407966">
+    <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641670302087" />
+    <state width="1285" height="238" key="GridCell.Tab.0.bottom" timestamp="1641919355380">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1285" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641656407966" />
-    <state width="1285" height="242" key="GridCell.Tab.0.center" timestamp="1641656407966">
+    <state width="1285" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641919355380" />
+    <state width="1317" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
+    <state width="1285" height="238" key="GridCell.Tab.0.center" timestamp="1641919355380">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1285" height="242" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641656407966" />
-    <state width="1285" height="242" key="GridCell.Tab.0.left" timestamp="1641656407966">
+    <state width="1285" height="238" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641919355380" />
+    <state width="1317" height="238" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
+    <state width="1285" height="238" key="GridCell.Tab.0.left" timestamp="1641919355380">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1285" height="242" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641656407966" />
-    <state width="1285" height="242" key="GridCell.Tab.0.right" timestamp="1641656407966">
+    <state width="1285" height="238" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641919355380" />
+    <state width="1317" height="238" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
+    <state width="1285" height="238" key="GridCell.Tab.0.right" timestamp="1641919355380">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1285" height="242" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641656407966" />
+    <state width="1285" height="238" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641919355380" />
+    <state width="1317" height="238" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
     <state width="1822" height="292" key="GridCell.Tab.1.bottom" timestamp="1641468434651">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
