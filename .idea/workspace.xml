@@ -30,12 +30,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloKotiln" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.BeehouseKt">
+  <component name="RunManager" selected="Kotlin.PalenNumKt">
     <configuration name="BeehouseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
@@ -49,14 +49,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakEventPointKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="PalenNumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="1712번.BreakEventPointKt" />
+      <option name="MAIN_CLASS_NAME" value="1259번.PalenNumKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PalenNumKt" />
         <item itemvalue="Kotlin.BeehouseKt" />
         <item itemvalue="Kotlin.ScaleKt" />
         <item itemvalue="Kotlin.VerificationNumKt" />
         <item itemvalue="Kotlin.WordStudyKt" />
-        <item itemvalue="Kotlin.BreakEventPointKt" />
       </list>
     </recent_temporary>
   </component>
@@ -133,30 +133,35 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="828" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641228350845" />
-    <state x="873" y="274" key="FileChooserDialogImpl" timestamp="1641670302087">
+    <state x="873" y="274" key="FileChooserDialogImpl" timestamp="1642152677839">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641670302087" />
-    <state width="1877" height="238" key="GridCell.Tab.0.bottom" timestamp="1641987330939">
+    <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1642152677839" />
+    <state width="801" height="238" key="GridCell.Tab.0.bottom" timestamp="1642160653391">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330939" />
     <state width="1317" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
-    <state width="1877" height="238" key="GridCell.Tab.0.center" timestamp="1641987330939">
+    <state width="801" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653391" />
+    <state width="801" height="238" key="GridCell.Tab.0.center" timestamp="1642160653390">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="238" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330939" />
     <state width="1317" height="238" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
-    <state width="1877" height="238" key="GridCell.Tab.0.left" timestamp="1641987330938">
+    <state width="801" height="238" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653390" />
+    <state width="801" height="238" key="GridCell.Tab.0.left" timestamp="1642160653390">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="238" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330938" />
     <state width="1317" height="238" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
-    <state width="1877" height="238" key="GridCell.Tab.0.right" timestamp="1641987330939">
+    <state width="801" height="238" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653390" />
+    <state width="801" height="238" key="GridCell.Tab.0.right" timestamp="1642160653390">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="238" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330939" />
     <state width="1317" height="238" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
+    <state width="801" height="238" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653390" />
     <state width="1822" height="292" key="GridCell.Tab.1.bottom" timestamp="1641468434651">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -177,6 +182,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="588" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641231331161" />
+    <state x="136" y="254" key="run.anything.popup" timestamp="1642150929435">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="136" y="254" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1642150929435" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
