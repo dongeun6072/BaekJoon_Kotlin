@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="644ab8af-17c4-4aa1-aed2-c990952777f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/META-INF/Baekjoon.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="644ab8af-17c4-4aa1-aed2-c990952777f0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +33,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.LocationsortKt">
+  <component name="RunManager" selected="Kotlin.Locationsort2Kt">
     <configuration name="AgeSortKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
@@ -50,14 +47,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonFactorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Locationsort2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="2609번.CommonFactorKt" />
+      <option name="MAIN_CLASS_NAME" value="11651번.Locationsort2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Locationsort2Kt" />
         <item itemvalue="Kotlin.LocationsortKt" />
         <item itemvalue="Kotlin.Sort3Kt" />
         <item itemvalue="Kotlin.AgeSortKt" />
         <item itemvalue="Kotlin.Sort2Kt" />
-        <item itemvalue="Kotlin.CommonFactorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -140,31 +137,31 @@
     <state x="873" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642336770873" />
     <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641670302087" />
     <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1642152677839" />
-    <state width="980" height="345" key="GridCell.Tab.0.bottom" timestamp="1642736171236">
+    <state width="935" height="223" key="GridCell.Tab.0.bottom" timestamp="1642862040933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="980" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642736171236" />
+    <state width="935" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642862040933" />
     <state width="1877" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330939" />
     <state width="1317" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
     <state width="801" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653391" />
-    <state width="980" height="345" key="GridCell.Tab.0.center" timestamp="1642736171236">
+    <state width="935" height="223" key="GridCell.Tab.0.center" timestamp="1642862040933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="980" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642736171236" />
+    <state width="935" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642862040933" />
     <state width="1877" height="238" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330939" />
     <state width="1317" height="238" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
     <state width="801" height="238" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653390" />
-    <state width="980" height="345" key="GridCell.Tab.0.left" timestamp="1642736171236">
+    <state width="935" height="223" key="GridCell.Tab.0.left" timestamp="1642862040933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="980" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642736171236" />
+    <state width="935" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642862040933" />
     <state width="1877" height="238" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330938" />
     <state width="1317" height="238" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
     <state width="801" height="238" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653390" />
-    <state width="980" height="345" key="GridCell.Tab.0.right" timestamp="1642736171236">
+    <state width="935" height="223" key="GridCell.Tab.0.right" timestamp="1642862040933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="980" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642736171236" />
+    <state width="935" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642862040933" />
     <state width="1877" height="238" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330939" />
     <state width="1317" height="238" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
     <state width="801" height="238" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653390" />
