@@ -17,7 +17,7 @@ fun main() = with(System.`in`.bufferedReader()){
             }
             "size" ->{
                 println(stack.size)
-            }
+            } 
             "empty" ->{
                 if (stack.isEmpty()) println("1")
                 else println("0")
