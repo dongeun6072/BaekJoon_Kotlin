@@ -35,7 +35,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.StackSequenceKt">
+  <component name="RunManager" selected="Kotlin.A_B_2Kt">
+    <configuration name="A_B_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Baekjoon" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="2558번.A_B_2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DequeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
@@ -75,19 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReNumCard2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Baekjoon" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="10816번.ReNumCard2Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StackSequenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Baekjoon" />
       <option name="VM_PARAMETERS" />
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.A_B_2Kt" />
         <item itemvalue="Kotlin.StackSequenceKt" />
         <item itemvalue="Kotlin.JosephusKt" />
         <item itemvalue="Kotlin.DequeKt" />
         <item itemvalue="Kotlin.QueueKt" />
-        <item itemvalue="Kotlin.ReNumCard2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -139,31 +139,31 @@
     <state x="873" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642336770873" />
     <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641670302087" />
     <state x="873" y="274" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1642152677839" />
-    <state width="914" height="222" key="GridCell.Tab.0.bottom" timestamp="1643543493057">
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom" timestamp="1643720059958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643543493057" />
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643720059958" />
     <state width="1877" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330939" />
     <state width="1317" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
     <state width="801" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653391" />
-    <state width="914" height="222" key="GridCell.Tab.0.center" timestamp="1643543493057">
+    <state width="1877" height="222" key="GridCell.Tab.0.center" timestamp="1643720059958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643543493057" />
+    <state width="1877" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643720059958" />
     <state width="1877" height="238" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330939" />
     <state width="1317" height="238" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
     <state width="801" height="238" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653390" />
-    <state width="914" height="222" key="GridCell.Tab.0.left" timestamp="1643543493057">
+    <state width="1877" height="222" key="GridCell.Tab.0.left" timestamp="1643720059958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643543493057" />
+    <state width="1877" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643720059958" />
     <state width="1877" height="238" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330938" />
     <state width="1317" height="238" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
     <state width="801" height="238" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653390" />
-    <state width="914" height="222" key="GridCell.Tab.0.right" timestamp="1643543493057">
+    <state width="1877" height="222" key="GridCell.Tab.0.right" timestamp="1643720059958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643543493057" />
+    <state width="1877" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643720059958" />
     <state width="1877" height="238" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@0.0.1920.1080" timestamp="1641987330939" />
     <state width="1317" height="238" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1360.768@1920.0.1360.768" timestamp="1641911489903" />
     <state width="801" height="238" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1642160653390" />
